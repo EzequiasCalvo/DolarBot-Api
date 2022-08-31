@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const baseUrl = "https://dolar-blue-api.netlify.app";
+const baseUrl = "https://bluepy.herokuapp.com";
 
 const DOLAR_OFICIAL = "/api/dolar/oficial";
 const DOLAR_BLUE = "/api/dolar/blue";
